@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.btn {
+  background-color:grey;
+  color: white;
+}
+
+.flag {
+  width: 50%;
+  margin-left: 20%;
+}
+
+.icon {
+  width: 15%;
+  margin-left: 50%;
+}
